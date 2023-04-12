@@ -1,0 +1,105 @@
+*
+{margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: rgb(255, 248, 240);
+}
+
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 02%;
+}
+
+ul{
+    list-style-type: none;
+    align-items: first baseline;
+
+}
+html,body{
+    height: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+.header{
+    padding: 20px 0;
+}
+
+.logopp{
+    width: 50%; 
+    margin-top: -29px;   
+}
+
+.menu {
+    width: 50%;
+    text-align: right;
+}
+menu a{
+   color: black;
+   text-decoration: none;
+   font-weight: bold;
+   margin-right: 15px;
+}
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+section.sobre{
+    height: calc(100% - 200px);
+    position: relative;
+
+}
+.textinho {
+    margin: 5% ;
+    color: rgb(38, 36, 36);
+    font-size: 20px;
+    font-weight: bold;
+    max-width: 920px;
+    margin-top: 0px;   
+}
+.textocomplementar{
+    margin: 5% ;
+    color: rgb(38, 36, 36);
+    font-size: 20px;
+    font-weight: normal;
+    max-width: 820px;
+    margin-top: -70px;
+    text-align: justify;  
+}
+.fotocorte{
+    position: absolute;
+    bottom: -107px;
+    right: -5px;
+    width: 380px;
+    height: 600px;
+    background-color:#B2DBAF;
+
+}
+
+
+footer img{
+    width: 40px;
+    height: 40px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;}
+
+footer a{
+    margin: 40px;
+    text-align: center;
+    text-indent: 50px;
+}
+
+footer p{
+    margin-top: 40px;
+}
+
