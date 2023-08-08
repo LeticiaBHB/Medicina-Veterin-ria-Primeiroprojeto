@@ -1,8 +1,8 @@
 https://medicaveterinaria.netlify.app/
 
-| Image 1 | Image 2 |
+| Home | Sobre |
 |----------|----------|
-| ![App Screenshot](screenshot/1.jpeg) | ![App Screenshot](screenshot/2.jpeg) |
+| ![App Screenshot](screenshot/2.jpeg) | ![App Screenshot](screenshot/1.jpeg) |
 
 Copyright (c) 2023 Leticia Heloisa Bini Haiduk
 
