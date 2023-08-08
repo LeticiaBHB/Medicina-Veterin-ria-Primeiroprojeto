@@ -1,5 +1,7 @@
 https://medicaveterinaria.netlify.app/
 
+My resume focused on the area of ​​veterinary medicine
+
 | Home | Sobre |
 |----------|----------|
 | ![App Screenshot](screenshot/2.jpeg) | ![App Screenshot](screenshot/1.jpeg) |
